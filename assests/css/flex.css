@@ -1,0 +1,12 @@
+.d-flex {
+  display: flex;
+}
+.jc-c {
+  justify-content: center;
+}
+.jc-e {
+  justify-content: end;
+}
+.al-c {
+  align-items: center;
+}

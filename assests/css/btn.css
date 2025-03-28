@@ -1,0 +1,18 @@
+/* banner btn */
+
+.banner-btn {
+  /* background: radial-gradient(circle, yellow, transparent);
+  background-color: #e94848; */
+  /* background: radial-gradient(circle, red, blue); */
+  /* background: linear-gradient(to right, blue, red, blue); */
+  background-color: #000;
+  padding: 15px 30px;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  display: inline-block;
+}
+/* block4 */
+.block4-btn {
+  margin-bottom: 10px;
+}
